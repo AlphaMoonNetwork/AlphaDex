@@ -1,0 +1,42 @@
+{
+  "name": "AlphaDEX Tokens",
+  "logoURI": "",
+  "keywords": [
+    "AlphaDEX",
+    "default",
+    "list"
+  ],
+  "timestamp": "2022-10-10T12:01:00+00:00",
+  "tokens": [
+    {
+      "address": "0xA88F4E1CC0cC5e9D5210ff76952546eB27e69426",
+      "chainId": 1,
+      "name": "AlphaMoon",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
