@@ -1,6 +1,6 @@
 {
   "name": "AlphaDEX Tokens",
-  "logoURI": "https://raw.githubusercontent.com/AlphaMoonNetwork/AlphaDex/c3bb0b2b7ef64972053442ced635195fb99d7231/tokenlist/alphamoon.jpg",
+  "logoURI": "https://raw.githubusercontent.com/AlphaMoonNetwork/AlphaDex/main/tokenlist/alphamoon.png",
   "keywords": [
     "AlphaDEX",
     "default",
@@ -14,7 +14,7 @@
       "name": "AlphaMoon",
       "symbol": "ALPHA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/AlphaMoonNetwork/AlphaDex/c3bb0b2b7ef64972053442ced635195fb99d7231/tokenlist/alphamoon.jpg"
+      "logoURI": "https://raw.githubusercontent.com/AlphaMoonNetwork/AlphaDex/main/tokenlist/alphamoon.png"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
